@@ -1,0 +1,18 @@
+[
+    {
+        "mod_name": "ConsoleEnablerMod",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "BWCoopNative",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "BWCoop",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "Keybinds",
+        "mod_enabled": true
+    }
+]

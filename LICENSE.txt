@@ -1,0 +1,6 @@
+Village Pact Host
+Copyright (c) 2026 Parakalix Studios. All rights reserved.
+
+You may download this software, install it, and use it to host and play Bellwright with others. You may not sell it, change it, or share copies of it, changed or not; the official download is the Village Pact Host page on GitHub. Third-party parts included in the download (UE4SS and the libraries listed in THIRD-PARTY-NOTICES.txt) keep their own licenses.
+
+This software is provided as is, without warranty of any kind; use it at your own risk. Village Pact is a fan-made mod, not made by or affiliated with the developers or publishers of Bellwright.

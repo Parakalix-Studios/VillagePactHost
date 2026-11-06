@@ -1,0 +1,6 @@
+set(TARGET BWCoopNative)
+add_library(${TARGET} SHARED dllmain.cpp rates.cpp gui.cpp sleep.cpp)
+target_include_directories(${TARGET} PRIVATE .)
+target_link_libraries(${TARGET} PRIVATE ImGui PolyHook_2)
+target_link_libraries(${TARGET} PUBLIC UE4SS)
+set_target_properties(${TARGET} PROPERTIES OUTPUT_NAME "main")
